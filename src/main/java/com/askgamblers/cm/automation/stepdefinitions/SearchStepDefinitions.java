@@ -3,12 +3,13 @@ package com.askgamblers.cm.automation.stepdefinitions;
 import com.askgamblers.cm.automation.entities.interfaces.LandingPage;
 import com.askgamblers.cm.automation.entities.pageobjects.Landing;
 import com.askgamblers.cm.automation.utils.Driver;
-import cucumber.api.PendingException;
-import cucumber.api.java.Before;
-import cucumber.api.java.en.And;
-import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
+import io.cucumber.java.PendingException;
+import io.cucumber.java.Before;
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
 
 public class SearchStepDefinitions {
 
